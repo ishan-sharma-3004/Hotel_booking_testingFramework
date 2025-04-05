@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.classhtmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+junit-results.xml
